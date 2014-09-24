@@ -1,0 +1,9 @@
+{
+    "name": "CVL Zoomable Circle Packing",
+    "description": "Zoomable Circle Packing visualization for Qlik Sense from CapricornVentis - www.capventis.com",
+    "icon": "scatter-chart",
+    "type": "visualization",
+    "version": "1.0",
+    "preview": "bar",
+    "author": "Stephen Redmond"
+}
